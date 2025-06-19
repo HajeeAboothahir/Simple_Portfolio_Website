@@ -5,7 +5,7 @@ Welcome to my first personal portfolio website, built using pure **HTML** and **
 ---
 
 ## 🌐 Live Demo
-👉 [Live Site (Netlify/GitHub Pages link here)](https://your-link-here.com)
+👉 [Live Site (https://hajeeaboothahir.github.io/Simple_Portfolio_Website/)
 
 ## 📌 Features
 
